@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gonzaju6
 - 👀 I’m interested in CS basics and Data Analysis
-- 🌱 I’m currently learning SQL and Python in Google Data Analysis certifiation and ready to start the Oracle-Alura Front-End course
-- 💞️ I’m looking to collaborate on SQL and basic programing projects
+- 🌱 I’m currently learning Front-End in the Oracle-Alura course
+- 💞️ I’m looking to collaborate on Front-End and basic programing projects
 - 📫 How to reach me ...
 
 <!---
